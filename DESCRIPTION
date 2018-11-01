@@ -3,7 +3,7 @@ Title: Create Markdown Vignettes for R Packages
 Version: 0.0.0.9000
 Authors@R: person("JB", "Duck-Mayr", email = "j.duckmayr@gmail.com", role = c("aut", "cre"))
 Description: 'knitr' provides a flexible vignette engine for Rmarkdown, but not for plain markdown. 'R.rsp' provides a markdown vignette engine, but one that does not allow for the inclusion of a custom CSS stylesheet. 'mdVignettes' fills the gap and provides a vignette engine for plain markdown flexible enough to allow the use of custom CSS stylesheets.
-Depends: R (>= 3.5.0)
+Depends: R (>= 3.4.0)
 Imports: markdown
 License: GPL (>= 2.0)
 Encoding: UTF-8
